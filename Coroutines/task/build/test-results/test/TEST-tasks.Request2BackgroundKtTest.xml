@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tasks.Request2BackgroundKtTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-05-07T14:42:15" hostname="Niks-16GB-Browser.local" time="1.006">
+  <properties/>
+  <testcase name="testAggregation" classname="tasks.Request2BackgroundKtTest" time="1.006"/>
+  <system-out><![CDATA[194 [Thread-3] INFO  Contributors - org: loaded 3 repos
+194 [Thread-3] INFO  Contributors - repo-1: loaded 2 contributors
+194 [Thread-3] INFO  Contributors - repo-2: loaded 2 contributors
+194 [Thread-3] INFO  Contributors - repo-3: loaded 2 contributors
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
